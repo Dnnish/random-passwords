@@ -3,7 +3,7 @@ Este es un mini proyecto para practicar python, lo que hace es generar contrase�
 la cantidad de contraseñas al crear y la longitud de las contraseñas que se vayan a generar. 
 Al darle al botón de "Generar" creara las contraseñas y tambien hara el insert a la base de datos.
 
-#DML mysql
+## DML mysql
 create database pythonPrueba;
 use pythonPrueba;
 
