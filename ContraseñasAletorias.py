@@ -65,7 +65,7 @@ class Contraseña_Random:
         bd_host = 'localhost'
         bd = 'pythonPrueba'
         bd_user = 'root'
-        bd_contraseña = 'Estefano123.'
+        bd_contraseña = ''
         try:
             conexion = mysql.connector.connect(
                 host=bd_host,
